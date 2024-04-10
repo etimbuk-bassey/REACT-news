@@ -57,7 +57,7 @@ function App() {
 
       <div ref={ref}>
         <Container className="mt-5 bg-dark">
-          <div>emptyk</div>
+          <div>empty</div>
         </Container>
         <NewsList category={category} searchTerm={searchTerm} />
       </div>
